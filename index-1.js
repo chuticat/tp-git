@@ -1,1 +1,1 @@
-console.log("Coucou les amis !")
+console.log("Salut les filles et les garçons !")
